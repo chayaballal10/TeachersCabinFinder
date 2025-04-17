@@ -1,1 +1,1 @@
-# TeachersCabinFinder
+MERN Stack project
